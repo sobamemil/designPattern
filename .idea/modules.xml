@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/template.iml" filepath="$PROJECT_DIR$/template.iml" />
-      <module fileurl="file://$PROJECT_DIR$/시스템분석및설계과제.iml" filepath="$PROJECT_DIR$/시스템분석및설계과제.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/template.iml" filepath="$PROJECT_DIR$/template.iml" />
->>>>>>> c0d49d4 (template method pattern)
+      <module fileurl="file://$PROJECT_DIR$/singleton.iml" filepath="$PROJECT_DIR$/singleton.iml" />
     </modules>
   </component>
 </project>
